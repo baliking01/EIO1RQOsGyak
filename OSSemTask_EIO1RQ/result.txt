@@ -1,0 +1,1 @@
+Sides: 7, 3, 5 Area: 6.50 Perimeter: 15
